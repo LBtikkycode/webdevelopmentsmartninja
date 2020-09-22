@@ -1,0 +1,38 @@
+#navigation2{
+    background-color:#cc99ff;
+    height:30px;
+    width:auto;
+}
+.center{    text-align:center;}
+.purple{
+    color:#400080;
+    font-family:monospace;
+}
+.big{    font-size:45px;}
+table{
+    table-layout:auto;
+    width:100%;
+    font-family:monospace;
+}
+.big{    font-size:45px;}
+.button {
+  background-color:#e6ccff;
+  border: none;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+.medium {       font-size:20px;}
+
+
+.relative{
+    background-color:#bf80ff;
+    position:relative;
+    width:auto;
+    height:auto;
+}
