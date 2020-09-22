@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ratbook *homework*</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="My Ratbook">
+        <meta name="keyword" content="fakebook, rats">
+        <meta name="author" content="Tikky">
+        <link rel="stylesheet" href="css/style-updated.css">
+    </head>
+    <body>
+        <div class="purple big center" id="navigation"> Ratbook </div>
+        <div class="purple center" id="navigation2"> Facebook for rats </div>
+
+        <div class="relative purple">
+            <table class="center">
+                <tr>
+                    <td></td>
+                    <td> <h3>Lucy</h3> </td>
+                    <td> <h3>Addy</h3> </td>
+                    <td> <h3>Lilly</h3> </td>
+                    <td> <h3>Abby</h3> </td>
+                    <td> <h3>Beezle</h3> </td>
+                </tr>
+
+                <tr>
+                    <td class="table_back"></td>
+                    <td> <img src="lucifera.jpg" alt="Lucy the rat" width="300" height="300"> </td>
+                    <td> <img src="addreal.jpg" alt="Addy the rat" width="300" height="300"> </td>
+                    <td> <img src="lillith.jpg" alt="Lilly the rat" width="300" height="300"> </td>
+                    <td> <img src="abbadon.jpg" alt="Abby the rat" width="300" height="300"> </td>
+                    <td> <img src="beezlebub.jpg" alt="Beezle the rat" width="300" height="300"> </td>
+                    <td> <button class="button">Add a rat 🐀</button> </td>
+                </tr>
+
+                <tr>
+                    <td class="medium"> <strong>Full name:</strong> </td>
+                    <td> <h4>Lucifera</h4> </td>
+                    <td> <h4>Addreal</h4> </td>
+                    <td> <h4>Lillith</h4> </td>
+                    <td> <h4>Abbadon</h4> </td>
+                    <td> <h4>Beezlebub</h4> </td>
+                </tr>
+
+                <tr>
+                    <td class="medium"> <strong>Likes:</strong> </td>
+                    <td>apples</td>
+                    <td>food in general</td>
+                    <td>chewing wood and destroying everything</td>
+                    <td>biting people</td>
+                    <td>escaping the cage every chance she gets</td>
+                </tr>
+
+                <tr>
+                    <td class="medium"> <strong>Rat type:</strong> </td>
+                    <td>black hooded rex</td>
+                    <td>albino rex</td>
+                    <td>black hooded dumbo</td>
+                    <td>siamese dumbo</td>
+                    <td>brown hooded rex</td>
+                </tr>
+
+            </table>
+        </div>
+    </body>
+</html>
