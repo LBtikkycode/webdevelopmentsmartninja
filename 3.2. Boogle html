@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Boogle login </title>
+        <meta name="author" content="Tikky">
+        <link rel="stylesheet" href="css/style.css">
+        <link href='https://fonts.googleapis.com/css?family=Beth Ellen' rel='stylesheet'>
+        <link rel="stylesheet" href="css/button.css">
+
+    </head>
+    <body>
+
+        <div class="pink center monospace_font" id="navigation">
+            <p class="big beth-ellen_font"> Boogle </p>
+            <p class="middle"> <strong>Sign in</strong></p>
+            <p>Use your boogle account</p>
+            <hr class="new">
+            <input class="box-style" type="text" placeholder="your boogle account">
+            <p> <a> <strong> Forgot your boogle account? </strong> </a> </p>
+            <hr class="new">
+            <p>Not your computer? Use Guest mode to sign in privately.</p>
+            <p> <a> <strong>Learn more</strong> </a> </p>
+            <hr class="new">
+            <p class="new-left"> <a> <strong> Create account </strong></a></p>
+            <p class="new-right"><button class="button">Next</button></p>
+        </div>
+
+
+    </body>
+</html>
